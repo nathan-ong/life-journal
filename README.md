@@ -1,2 +1,2 @@
 # life-journal
-Interactive timeline to personally document and look at your life through different lenses.
+Interactive timeline to personally document and sort various life events.
